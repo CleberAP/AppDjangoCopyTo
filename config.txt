@@ -1,0 +1,4 @@
+origin_dir:::C:\Django_projects\django_basic_1
+destiny_dir:::C:\Github
+list_blocked_items:::migrations, static, __pycache__, my_keys.txt
+git_clone:::.git, .gitignore, README.MD
