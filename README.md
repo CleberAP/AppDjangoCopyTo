@@ -7,5 +7,5 @@ App (Python + Tkinter) to copy your Django project to another directory.
 ---
 
 <hr>
-<img height='150' src="https://github.com/CleberAP/AppDjangoCopyTo/tree/main/Telas/tela_01.jpg" />
+<img height='150' src="https://github.com/CleberAP/AppDjangoCopyTo/tree/main/Telas/tela_01.jpg" /> <br>
 <hr>
